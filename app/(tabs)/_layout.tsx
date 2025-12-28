@@ -36,7 +36,7 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="explore"
+        name="leaderboard"
         options={{
           title: "Leaderboard",
           tabBarIcon: ({ color }) => (
